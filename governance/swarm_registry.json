@@ -1,0 +1,5 @@
+{
+  "version": "1.0",
+  "nodes": ["Amnesia", "Trisha", "Poster", "Command", "Surveyor", "Architect", "Sentinel", "Strategist", "Outreach", "Bridge"],
+  "mode": "continuous"
+}
